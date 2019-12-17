@@ -1,0 +1,40 @@
+.fonty{font-family: 'Pacifico', cursive;}
+.sonty{font-family: 'Open Sans Condensed', sans-serif;}
+.boo{font-family: 'Rock Salt', cursive;
+margin-bottom: o;
+height:50%;
+width:50%;}
+.jumbotron-fluid{
+  margin-bottom: 0px;
+}
+.boo:hover{
+  transform:scale(1.03,1.03);
+  box-shadow: 4px 4px 10px 10px;
+}      
+.custombro{
+        background-image:url("https://www.xmple.com/wallpaper/red-linear-gradient-blue-1920x1080-c2-ff0000-00008b-a-105-f-14.svg");
+        background-size: cover;
+        margin: 0%;
+        padding:20px;
+        color: yellow;
+      }
+.loo {
+font-family: 'Rock Salt', cursive;
+font-family: 'Josefin Slab', serif;
+}
+.customfont{font-family: 'Nothing You Could Do', cursive;}
+.customfonty,.foo{
+        font-family: 'Righteous', cursive;}  
+    #content2 {color: #fff; background-color: #673ab7;}
+    #content3 {color: #fff; background-color: #1E88E5;}
+    #content41 {color: #fff; background-color: #00bcd4;}
+    #content42 {color: #fff; background-color: #009688;}
+.custompic:hover{
+  transform:scale(1.09,1.09);
+  background-color: black;
+}
+
+.custompic {
+  box-shadow: 4px 4px 10px 2px bla;
+
+}
